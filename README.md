@@ -11,7 +11,7 @@ This type of business cannot be distinguished by emails, phone numbers or locati
 identfiy them are the website, the name and social media links.
 - Business platforms (e.g 1ecard.in)
 This type of business offers an online platform for small businesses. The businesses hosted by this
-site will show it as their domain name so the businesses that operate on an online platform won't be distinguished
+site will show the domain name of the platform so the businesses that operate on an online platform won't be distinguished
 by their web domain, neither by their phone very often, but by their company name and social media links.
 
 ## Technology used
